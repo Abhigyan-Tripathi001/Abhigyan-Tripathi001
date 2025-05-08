@@ -1,4 +1,4 @@
-### <samp>&gt; Hi there, I'm <a href="https://github.com/Abhigyan-Tripathi001" target="_blank">Jenil Desai</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+### <samp>&gt; Hi there, I'm <a href="https://github.com/Abhigyan-Tripathi001" target="_blank">Abhigyan Tripathi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 <!--
 **Abhigyan-Tripathi001/Abhigyan-Tripathi001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
