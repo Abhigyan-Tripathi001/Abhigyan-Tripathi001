@@ -5,7 +5,7 @@
 
 ### Glad to see you here!
 
-👋 Hi, I'm Abhigyan Tripathi, a Full-Stack Developer and Tech Innovator currently pursuing a BTech in Computer Science & Engineering.
+👋 Hi, I'm a Full-Stack Developer and Tech Innovator currently pursuing a BTech in Computer Science & Engineering.
 
 
 💻 My technical arsenal includes C, Java, Python, Html, CSS, JavaScript,  React.js, Node.js, Express.js,  MySQL, MongoDB and Git/GitHub.
