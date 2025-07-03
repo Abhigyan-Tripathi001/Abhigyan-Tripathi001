@@ -3,7 +3,7 @@
 
 ---
 
-### 🔧 Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -25,7 +25,7 @@
 
 ---
 
-### 📫 Contact Me
+## 📫 Contact Me
 
 - 📧 Email: **abhigyantripathi02@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/abhigyan-tripathi](https://linkedin.com/in/abhigyan-tripathi)
@@ -34,22 +34,25 @@
 
 ---
 
-### 🚀 About Me
-
-- 🔭 I’m currently working on **Doctor Appointment Booking Web App (MERN)**
+## 🙋🏻‍♂️ About Me
+- Hi, I'm Abhigyan Tripathi 👨🏻‍💻
+- A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.
 - 🌱 Learning **DSA**, **System Design**, and **Cloud Deployment**
-- 💬 Ask me about **MERN stack**, **React UI**, or **APIs**
-- 🚀 I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.
-  
+- I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.
+- Let’s connect and build cool stuff together! 🚀
 
 ---
 
-### 🎯 Goals for 2025
+## 📬 Contact & Links
+- 💼 LinkedIn: https://www.linkedin.com/in/abhigyan-tripathi-819612305/
+- 📧 Email: abhigyantripathi42@gmail.com
+
+
+## 🎯 Goals for 2025
 
 - ✅ Master Next.js and TypeScript
 - ✅ Contribute to Open Source
 - 🚀 Launch personal portfolio site
-- 🧠 Crack full-stack developer interviews
 
 ---
 
