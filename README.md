@@ -25,15 +25,6 @@
 
 ---
 
-## 📫 Contact Me
-
-- 📧 Email: **abhigyantripathi02@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/abhigyan-tripathi](https://linkedin.com/in/abhigyan-tripathi)
-- 🧰 Portfolio: *Coming Soon*
-- 📁 GitHub Projects: [github.com/abhigyan-tripathi](https://github.com/abhigyan-tripathi)
-
----
-
 ## 🙋🏻‍♂️ About Me
 - Hi, I'm Abhigyan Tripathi 👨🏻‍💻
 - A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.
