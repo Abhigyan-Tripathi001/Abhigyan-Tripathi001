@@ -27,29 +27,31 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
 ---
 
 ### 📊 GitHub Stats
 
-![Abhigyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyan-tripathi&show_icons=true&theme=github_dark&hide_border=true)
-
-<img align="right" alt="Coding" width="400" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan-tripathi&layout=compact&theme=github_dark&hide_border=true)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abhigyan-tripathi&show_icons=true&theme=github_dark&hide_border=true" alt="Abhigyan's GitHub Stats" height="200"/>
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan-tripathi&layout=compact&theme=github_dark&hide_border=true" alt="Top Langs"/>
+    </td>
+    <td>
+      <img src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g" alt="Coding" width="400"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🙋🏻‍♂️ About Me
-<img align="right" alt="Coding" width="300" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
-
 - Hi, I'm Abhigyan Tripathi 👨🏻‍💻  
 - A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.  
 - 🌱 Learning **DSA**, **System Design**, and **Cloud Deployment**  
 - I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.  
 - Let’s connect and build cool stuff together! 🚀
-<br>
-<br>
 
 ---
 
