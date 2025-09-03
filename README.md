@@ -38,24 +38,30 @@
 ---
 
 ## 🙋🏻‍♂️ About Me
-- Hi, I'm Abhigyan Tripathi 👨🏻‍💻
-- A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.
-- 🌱 Learning **DSA**, **System Design**, and **Cloud Deployment**
-- I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.
+<img align="right" alt="Coding" width="400" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
+
+- Hi, I'm Abhigyan Tripathi 👨🏻‍💻  
+- A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.  
+- 🌱 Learning **DSA**, **System Design**, and **Cloud Deployment**  
+- I'm passionate about transforming ideas into solutions and creating comprehensive tech ecosystems that solve real-world challenges.  
 - Let’s connect and build cool stuff together! 🚀
+<br>
+<br>
+<br>
+<br>
 
 ---
 
 ## 📬 Contact & Links
-- 💼 LinkedIn: https://www.linkedin.com/in/abhigyan-tripathi-819612305/
-- 📧 Email: abhigyantripathi42@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/abhigyan-tripathi-819612305/  
+- 📧 Email: abhigyantripathi42@gmail.com  
 
+---
 
 ## 🎯 Goals for 2025
-
-- ✅ Master Next.js and TypeScript
-- ✅ Contribute to Open Source
-- 🚀 Launch personal portfolio site
+- ✅ Master Next.js and TypeScript  
+- ✅ Contribute to Open Source  
+- 🚀 Launch personal portfolio site  
 
 ---
 
