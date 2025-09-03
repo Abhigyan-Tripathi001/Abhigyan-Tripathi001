@@ -47,8 +47,6 @@
 - Let’s connect and build cool stuff together! 🚀
 <br>
 <br>
-<br>
-<br>
 
 ---
 
