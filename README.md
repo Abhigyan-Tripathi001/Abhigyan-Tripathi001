@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhigyan Tripathi</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;DSA+%26+System+Design+Learner;Open+Source+Contributor;Tech+Explorer+%7C+Cloud+Deployment" alt="Typing SVG" />
+</div>
 
 ---
 
