@@ -33,6 +33,9 @@
 ### 📊 GitHub Stats
 
 ![Abhigyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhigyan-tripathi&show_icons=true&theme=github_dark&hide_border=true)
+
+<img align="right" alt="Coding" width="400" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhigyan-tripathi&layout=compact&theme=github_dark&hide_border=true)
 
 ---
