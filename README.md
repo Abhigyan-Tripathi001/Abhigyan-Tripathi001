@@ -38,7 +38,7 @@
 ---
 
 ## 🙋🏻‍♂️ About Me
-<img align="right" alt="Coding" width="400" height="300" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g">
 
 - Hi, I'm Abhigyan Tripathi 👨🏻‍💻  
 - A passionate Full-Stack Developer diving deep into MERN Stack, DSA, and building scalable web applications.  
