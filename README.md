@@ -49,6 +49,8 @@
   </tr>
 </table>
 
+![Profile Views](https://komarev.com/ghpvc/?username=Abhigyan-Tripathi001&color=blue&style=flat)
+
 ---
 
 ## 🙋🏻‍♂️ About Me
