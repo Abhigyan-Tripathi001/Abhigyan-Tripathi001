@@ -243,62 +243,59 @@ I have worked on integrating AI and Machine Learning into full-stack application
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
 <table>
-  <tr>
-    <td>
+<tr>
 
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=Abhigyan-Tripathi001&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-        alt="Abhigyan's GitHub Stats"
-        height="200"
-      />
+<td align="center" width="55%">
 
-      <br>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Abhigyan-Tripathi001&show_icons=true&theme=github_dark&hide_border=true"
+  alt="Abhigyan's GitHub Stats"
+  height="180"
+/>
 
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-Tripathi001&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-        alt="Abhigyan's Top Languages"
-      />
+<br><br>
 
-    </td>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhigyan-Tripathi001&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+  alt="Abhigyan's Top Languages"
+  height="150"
+/>
 
-    <td>
+</td>
 
-      <img
-        src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true&rid=giphy.gif&ct=g"
-        alt="Coding Animation"
-        width="400"
-      />
+<td align="center" width="45%">
 
-    </td>
-  </tr>
+<img
+src="https://github.com/sivamsinghsh/Portfolio/blob/main/assets/img/professional%20skills.gif?raw=true"
+alt="Coding Animation"
+width="400"
+/>
+
+</td>
+
+</tr>
 </table>
-
-</div>
 
 <br>
 
-<div align="center">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigyan-Tripathi001&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"
+/>
+
+<br><br>
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Abhigyan-Tripathi001&theme=github-dark-blue&hide_border=true"
-  alt="GitHub Streak"
+src="https://komarev.com/ghpvc/?username=Abhigyan-Tripathi001&color=blue&style=flat"
+alt="Profile Views"
 />
 
 </div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abhigyan-Tripathi001&color=blue&style=flat)
-
-</div>
-
 ---
 
 # 📚 Currently Learning
