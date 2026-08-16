@@ -178,7 +178,7 @@ https://quick-cart-plum-pi.vercel.app/
 - ✨ Interactive frontend experience
 
 🔗 **Live Project:**  
-https://gaming-empire.vercel.app/
+[https://gaming-empire.vercel.app/](https://gaming-empire01.netlify.app/)
 
 ---
 
